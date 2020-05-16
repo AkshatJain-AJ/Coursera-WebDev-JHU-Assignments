@@ -1,2 +1,3 @@
-# module-2-assignment
-Module 2 assignement
+Coursera-WebDev-JHU-Assignments
+
+###HTML, CSS, JavaScript for Web Developers ####Johns Hopkins University #####Coursera
